@@ -1,0 +1,48 @@
+CREATE TABLE [dbo].[IssueTbl]
+(
+	[INum] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [StId] INT NOT NULL, 
+    [StName] VARBINARY(20) NOT NULL, 
+    [BookId] INT NOT NULL, 
+    [BookName] VARCHAR(20) NOT NULL, 
+    [IssueDate] DATE NOT NULL
+)
+
+CREATE TABLE [dbo].[BookTbl]
+(
+	[BId] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [BName] VARCHAR(20) NOT NULL, 
+    [BAuthor] VARCHAR(20) NOT NULL, 
+    [BPublisher] VARCHAR(100) NOT NULL, 
+    [BPrice] INT NOT NULL, 
+    [Bqty] INT NOT NULL
+)
+
+CREATE TABLE [dbo].[LibrarianTbl]
+(
+	[LibId] INT NOT NULL PRIMARY KEY IDENTITY(500, 1), 
+    [LibName] VARCHAR(20) NOT NULL, 
+    [LibPhone] VARCHAR(20) NOT NULL, 
+    [LibPass] VARCHAR(20) NOT NULL
+)
+
+CREATE TABLE [dbo].[ReturnTbl] (
+    [RNum] INT NOT NULL IDENTITY,
+    [StId] INT NOT NULL, 
+    [StName] VARCHAR(20) NOT NULL, 
+    [BookId] INT NOT NULL, 
+    [BookName] VARCHAR(20) NOT NULL, 
+    [IssueDate] DATE NOT NULL, 
+    [ReturnDate] DATE NOT NULL, 
+    [Fine] INT NOT NULL, 
+    PRIMARY KEY CLUSTERED ([RNum] ASC)
+);
+
+CREATE TABLE [dbo].[StudentTbl]
+(
+	[StId] INT NOT NULL PRIMARY KEY IDENTITY(100, 1), 
+    [StName] VARCHAR(20) NOT NULL, 
+    [StDep] VARCHAR(20) NOT NULL, 
+    [StSem] INT NOT NULL, 
+    [StPhone] NCHAR(20) NOT NULL
+)

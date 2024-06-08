@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[StudentTbl]
+(
+	[StId] INT NOT NULL PRIMARY KEY IDENTITY(100, 1), 
+    [StName] VARCHAR(20) NOT NULL, 
+    [StDep] VARCHAR(20) NOT NULL, 
+    [StSem] INT NOT NULL, 
+    [StPhone] NCHAR(20) NOT NULL
+)

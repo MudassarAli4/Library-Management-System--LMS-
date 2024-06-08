@@ -1,0 +1,463 @@
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.vbproj.AssemblyReference.cache
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.Books.resources
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.BReturns.resources
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.IssueBooks.resources
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.Librarians.resources
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.Login.resources
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.MainForm.resources
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.Resources.resources
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.Splash.resources
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.Students.resources
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.vbproj.GenerateResource.cache
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfoInputs.cache
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfo.vb
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.vbproj.CoreCompileInputs.cache
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\LMS.exe
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\LMS.deps.json
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\LMS.runtimeconfig.json
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\LMS.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\LMS.pdb
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\RestSharp.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.Management.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.Speech.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.vbproj.CopyComplete
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\refint\LMS.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.pdb
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.genruntimeconfig.cache
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\ref\LMS.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\bin\Debug\net6.0-windows\Bunifu.Dataviz.WinForms.dll
+D:\Study\Semester 4\Library Management System\LMS\LMS\obj\Debug\net6.0-windows\LMS.AdminLogin.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\LMS.exe
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\LMS.deps.json
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\LMS.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\LMS.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\LMS.pdb
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\Bunifu.Dataviz.WinForms.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.vbproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.AdminLogin.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.Books.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.BReturns.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.IssueBooks.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.Librarians.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.Login.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.MainForm.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.Resources.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.Splash.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.Students.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.vbproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfo.vb
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.vbproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.vbproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\refint\LMS.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.pdb
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\ref\LMS.dll
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.Log.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.Log1.resources
+C:\Users\hp\OneDrive\Desktop\LMS\LMS\obj\Debug\net6.0-windows\LMS.View.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\LMS.exe
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\LMS.deps.json
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\LMS.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\LMS.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\LMS.pdb
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\Bunifu.Dataviz.WinForms.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Speech.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.vbproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.AdminLogin.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Books.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.BReturns.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.IssueBooks.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Librarians.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Log.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Log1.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Login.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.MainForm.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Resources.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Splash.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Students.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.View.resources
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.vbproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfo.vb
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.vbproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.vbproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\refint\LMS.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.pdb
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\ref\LMS.dll
+C:\Users\hp\OneDrive\Desktop\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Search.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\LMS.exe
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\LMS.deps.json
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\LMS.runtimeconfig.json
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\LMS.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\LMS.pdb
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\Bunifu.Dataviz.WinForms.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\Bunifu.Licensing.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\RestSharp.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Management.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.1.5.3.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ComponentModel.Composition.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.IO.Ports.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Reflection.Context.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceModel.Syndication.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.ServiceProcess.ServiceController.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Speech.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\System.Web.Services.Description.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\de\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\es\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\it\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.vbproj.AssemblyReference.cache
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.AdminLogin.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Books.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.BReturns.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.IssueBooks.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Librarians.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Log.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Log1.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Login.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.MainForm.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Resources.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Search.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Splash.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.Students.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.View.resources
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.vbproj.GenerateResource.cache
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfoInputs.cache
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.AssemblyInfo.vb
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.vbproj.CoreCompileInputs.cache
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.vbproj.CopyComplete
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\refint\LMS.dll
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.pdb
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\LMS.genruntimeconfig.cache
+E:\UNI STUDY\Study\Semester 4\DBMS\LMS - Copy\LMS\obj\Debug\net6.0-windows\ref\LMS.dll

@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[IssuedBooksData]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Log_data] VARCHAR(100) NOT NULL
+)
