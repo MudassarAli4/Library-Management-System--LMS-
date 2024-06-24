@@ -7,7 +7,7 @@ The primary goal of the Library Management System is to simplify and enhance lib
 The project titled “Library Management System” is a library management software for monitoring and controlling the transactions in a library. The project “Library Management System” is developed in C#, which mainly focuses on basic operations in a library like adding new members, new books, updating information, and managing borrowing and returning books.
 
 ## Technologies Used
-- *C#* (Front End): It is the user-friendly interface.
+- *vb.Net and Forms* (Front End): It is the user-friendly interface.
 - *SQL* (Back End): It contains the database.
 
 ## User Modules
